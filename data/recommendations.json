@@ -1,0 +1,8 @@
+[
+  { "id": 1, "condition_id": 101, "type": "self_care", "advice": "Get plenty of rest. Drink lots of fluids. Use saline nasal sprays. Gargle with salt water for sore throat." },
+  { "id": 2, "condition_id": 101, "type": "when_to_see_doctor", "advice": "If symptoms worsen, last more than 10 days, or you develop a high fever, consult a doctor." },
+  { "id": 3, "condition_id": 102, "type": "self_care", "advice": "Rest, fluids, and over-the-counter flu medications can help manage symptoms." },
+  { "id": 4, "condition_id": 102, "type": "when_to_see_doctor", "advice": "Seek immediate medical attention if you experience difficulty breathing, chest pain, sudden dizziness, or severe vomiting." },
+  { "id": 5, "condition_id": 103, "type": "self_care", "advice": "Increase sun exposure safely. Incorporate Vitamin D rich foods like fatty fish, fortified milk, and cereals." },
+  { "id": 6, "condition_id": 103, "type": "when_to_see_doctor", "advice": "Consult a doctor for a proper diagnosis and to discuss Vitamin D supplementation, as dosage varies based on severity." }
+]

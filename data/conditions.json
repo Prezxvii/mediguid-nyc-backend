@@ -1,0 +1,5 @@
+[
+  { "id": 101, "name": "Common Cold", "description": "A viral infection of your nose and throat (upper respiratory tract).", "severity": "mild", "symptom_ids": [1, 2, 3, 7, 4] },
+  { "id": 102, "name": "Influenza (Flu)", "description": "A contagious respiratory illness caused by influenza viruses.", "severity": "moderate", "symptom_ids": [3, 4, 5, 6, 2] },
+  { "id": 103, "name": "Vitamin D Deficiency", "description": "A condition where the body does not have enough vitamin D.", "severity": "when to see doctor for diagnosis", "symptom_ids": [4, 8, 9, 10, 11] }
+]

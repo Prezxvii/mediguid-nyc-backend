@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "Runny Nose", "description": "Discharge from the nose." },
+  { "id": 2, "name": "Sore Throat", "description": "Pain or irritation of the throat." },
+  { "id": 3, "name": "Cough", "description": "A sudden, forceful release of air from the lungs." },
+  { "id": 4, "name": "Fatigue", "description": "General feeling of tiredness or lack of energy." },
+  { "id": 5, "name": "Muscle Aches", "description": "Pain or tenderness in muscles." },
+  { "id": 6, "name": "Headache", "description": "Pain in the head." },
+  { "id": 7, "name": "Sneezing", "description": "Sudden, involuntary expulsion of air from the nose and mouth." },
+  { "id": 8, "name": "Low Energy", "description": "Persistent feeling of being tired." },
+  { "id": 9, "name": "Bone Pain", "description": "A dull, aching pain in bones." },
+  { "id": 10, "name": "Muscle Weakness", "description": "Reduced strength in muscles." },
+  { "id": 11, "name": "Mood Changes", "description": "Irritability, sadness, or difficulty concentrating." }
+]

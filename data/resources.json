@@ -1,0 +1,7 @@
+[
+  { "id": 1, "name": "CVS Pharmacy - Times Square", "type": "pharmacy", "address": "221 W 42nd St, New York, NY 10036", "phone": "(212) 840-8260", "website": "https://www.cvs.com", "notes": "Open 24/7. Offers vaccinations." },
+  { "id": 2, "name": "Duane Reade - Wall Street", "type": "pharmacy", "address": "40 Wall St, New York, NY 10005", "phone": "(212) 530-0105", "website": "https://www.duanereade.com", "notes": "Good for quick refills." },
+  { "id": 3, "name": "CityMD Midtown East Urgent Care", "type": "urgent_care_advice", "address": "150 E 58th St, New York, NY 10155", "phone": "(212) 731-2900", "website": "https://www.citymd.com", "notes": "Walk-in clinic for non-life-threatening conditions." },
+  { "id": 4, "name": "General Medical Advice Line (NYC Health)", "type": "general_clinic", "address": "Varies by borough, check NYC Health website", "phone": "311", "website": "https://www.nyc.gov/health", "notes": "For general health inquiries and guidance to local services." },
+  { "id": 5, "name": "Online Telehealth Provider (Simulated)", "type": "telehealth", "address": "N/A (Virtual Service)", "phone": "N/A", "website": "https://www.exampletelehealth.com", "notes": "Consider this for non-emergency consultations from home." }
+]
